@@ -1,6 +1,6 @@
 export default {
   bot: {
-    token: "ODYyNzAxOTYzODQ1MTczMjU4.YOcL0A.6h0GduAH3x9SiBp3vTiZDr_SwSs",
+    token: "sdhfjsk87BT9DAS7987saDAt.YOcL0A.6h0GduAH3x9SiBp3vTiZDr_SwSs",
     prefix: ">>",
     owners: ["798675881819111424"],
     axis: "100690330336129024",
